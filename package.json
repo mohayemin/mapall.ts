@@ -29,7 +29,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "mapall",
+  "name": "@mohayemin/mapit",
   "author": "Mohayeminul Islam",
   "module": "dist/mapall.esm.js",
   "devDependencies": {
