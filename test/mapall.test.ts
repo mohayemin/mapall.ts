@@ -11,4 +11,4 @@ describe("mapAll", () => {
         expect(person.name).toBe("Toobaa");
         expect(person.age).toBe(2.7);
     });
-})
+});
